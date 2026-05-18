@@ -13,11 +13,11 @@
 - React Native
 
 ## Objetivos
-- [ ] Aprimorar Java Orientado a Objetos
-- [ ] Dominar Spring Boot
-- [ ] Criar APIs REST completas
-- [ ] Aprender autenticação JWT
-- [ ] Desenvolver um app React Native consumindo API Java
+Aprimorar Java Orientado a Objetos
+Dominar Spring Boot
+Criar APIs REST completas
+Aprender autenticação JWT
+Desenvolver um app React Native consumindo API Java
 
 ## Contato
 💼 LinkedIn:

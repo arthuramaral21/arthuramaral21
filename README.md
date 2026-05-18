@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Arthur 👋
 
-<!--
-**arthuramaral21/arthuramaral21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação
 
-Here are some ideas to get you started:
+💻 Atualmente focado em desenvolvimento back-end com Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e estudos atuais
+- Java
+- Spring Boot
+- SQL
+- APIs REST
+- Git & GitHub
+- React Native
+
+## Objetivos
+- [ ] Aprimorar Java Orientado a Objetos
+- [ ] Dominar Spring Boot
+- [ ] Criar APIs REST completas
+- [ ] Aprender autenticação JWT
+- [ ] Desenvolver um app React Native consumindo API Java
+
+## Contato
+💼 LinkedIn:
+www.linkedin.com/in/arthur-amaral-630372339/

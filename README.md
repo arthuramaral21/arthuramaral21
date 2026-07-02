@@ -21,4 +21,4 @@
 
 ## Contato
 💼 LinkedIn:
-www.linkedin.com/in/arthur-amaral-630372339/
+www.linkedin.com/in/arthur-amaral-ferreira
